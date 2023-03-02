@@ -1,0 +1,5 @@
+﻿  myc03.c
+D:\Study\Visual Studio\20230208\HelloCLang20230210\HelloCLang20230210\myc03.c(8,32): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+D:\Study\Visual Studio\20230208\HelloCLang20230210\HelloCLang20230210\myc03.c(8,33): error C2059: 구문 오류: ')'
+D:\Study\Visual Studio\20230208\HelloCLang20230210\HelloCLang20230210\myc03.c(12,2): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
+D:\Study\Visual Studio\20230208\HelloCLang20230210\HelloCLang20230210\myc03.c(19,2): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.

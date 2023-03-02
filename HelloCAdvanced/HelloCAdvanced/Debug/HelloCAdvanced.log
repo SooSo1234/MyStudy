@@ -1,0 +1,14 @@
+﻿  myc01.c
+D:\Study\HelloCAdvanced\HelloCAdvanced\myc01.c(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+D:\Study\HelloCAdvanced\HelloCAdvanced\myc01.c(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
+D:\Study\HelloCAdvanced\HelloCAdvanced\myc01.c(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'int **'입니다.
+D:\Study\HelloCAdvanced\HelloCAdvanced\myc01.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+D:\Study\HelloCAdvanced\HelloCAdvanced\myc01.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int **'입니다.
+D:\Study\HelloCAdvanced\HelloCAdvanced\myc01.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
+D:\Study\HelloCAdvanced\HelloCAdvanced\myc01.c(37,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Study\HelloCAdvanced\HelloCAdvanced\myc01.c(38,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Study\HelloCAdvanced\HelloCAdvanced\myc01.c(40,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[5]'입니다.
+  myc02.c
+  코드를 생성하고 있습니다...
+myc02.obj : error LNK2005: _main이(가) myc01.obj에 이미 정의되어 있습니다.
+D:\Study\HelloCAdvanced\Debug\HelloCAdvanced.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
